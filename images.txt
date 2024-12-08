@@ -1,1 +1,2 @@
 ghcr.io/sagernet/sing-box
+ghcr.io/librespeed/speedtest

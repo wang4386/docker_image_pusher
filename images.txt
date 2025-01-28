@@ -1,2 +1,1 @@
-ghcr.io/sagernet/sing-box
-ghcr.io/librespeed/speedtest
+ghcr.io/open-webui/open-webui:ollama
